@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\ativ1\ativ1\bin\Debug\net8.0\ativ1.exe
+C:\Users\mathe\source\repos\ativ1\ativ1\bin\Debug\net8.0\ativ1.deps.json
+C:\Users\mathe\source\repos\ativ1\ativ1\bin\Debug\net8.0\ativ1.runtimeconfig.json
+C:\Users\mathe\source\repos\ativ1\ativ1\bin\Debug\net8.0\ativ1.dll
+C:\Users\mathe\source\repos\ativ1\ativ1\bin\Debug\net8.0\ativ1.pdb
+C:\Users\mathe\source\repos\ativ1\ativ1\obj\Debug\net8.0\ativ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\ativ1\ativ1\obj\Debug\net8.0\ativ1.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\ativ1\ativ1\obj\Debug\net8.0\ativ1.AssemblyInfo.cs
+C:\Users\mathe\source\repos\ativ1\ativ1\obj\Debug\net8.0\ativ1.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\ativ1\ativ1\obj\Debug\net8.0\ativ1.dll
+C:\Users\mathe\source\repos\ativ1\ativ1\obj\Debug\net8.0\refint\ativ1.dll
+C:\Users\mathe\source\repos\ativ1\ativ1\obj\Debug\net8.0\ativ1.pdb
+C:\Users\mathe\source\repos\ativ1\ativ1\obj\Debug\net8.0\ativ1.genruntimeconfig.cache
+C:\Users\mathe\source\repos\ativ1\ativ1\obj\Debug\net8.0\ref\ativ1.dll
